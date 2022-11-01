@@ -1,3 +1,4 @@
 !if adguard
 !#include filters/newtoki.txt
+!#include filters/manatoki.txt
 !endif
