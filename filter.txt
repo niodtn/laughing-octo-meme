@@ -1,1 +1,3 @@
+!if adguard
 !#include filters/newtoki.txt
+!endif
