@@ -1,6 +1,8 @@
 import os
+from pathlib import Path
 
-from lib.path import *
+TOKI = Path(__file__).parent
+FILTERS = TOKI.parent / "filters"
 
 
 def main():
@@ -11,19 +13,22 @@ def main():
 
 
 def newtoki(number):
-    path = TOKI/"newtoki"
+    PATH = TOKI/"newtoki"
     url = f"newtoki{number}.com"
 
-    txt_list = os.listdir(path)
-
+    txt_list = os.listdir(PATH)
     manga = dict()
     for txt in txt_list:
-        with open(path/txt, "r", encoding="utf-8") as f:
-            key = txt.split(".")[0]
+        file_name = txt.split(".")
+        key = file_name[0]
+
+        if file_name[1] != "txt":
+            continue
+
+        with open(PATH/txt, "r", encoding="utf-8") as f:
             manga[key] = f.read().splitlines()
 
-        with open(path/txt, "w", encoding="utf-8") as f:
-            key = txt.split(".")[0]
+        with open(PATH/txt, "w", encoding="utf-8") as f:
             manga[key].sort()
             f.writelines(line+"\n" for line in manga[key])
 
