@@ -1,5 +1,6 @@
 newtoki160.com##.comment-box
 newtoki160.com###viewcomment
+newtoki160.com###webtoon-list-all > li[date-title="아, 쫌 참으세요 영주님!"]
 newtoki160.com###webtoon-list-all > li[date-title="그녀가 공작저로 가야 했던 사정"]
 newtoki160.com###webtoon-list-all > li[date-title="나 혼자만 레벨업"]
 newtoki160.com###webtoon-list-all > li[date-title="나노리스트"]
