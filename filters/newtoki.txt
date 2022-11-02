@@ -8,6 +8,7 @@ newtoki160.com###webtoon-list-all > li[date-title="악역의 엔딩은 죽음뿐
 newtoki160.com###webtoon-list-all > li[date-title="오 주예수여"]
 newtoki160.com###webtoon-list-all > li[date-title="윈드브레이커"]
 newtoki160.com###webtoon-list-all > li[date-title="4000년 만에 귀환한 대마도사"]
+newtoki160.com###webtoon-list-all > li[date-title="8서클 마법사의 환생"]
 newtoki160.com###webtoon-list-all > li[date-title="Retry: 다시 한번 최강 신선으로"]
 newtoki160.com###webtoon-list-all > li[date-title="SSS급 영주로 회귀했다"]
 newtoki160.com###webtoon-list-all > li[date-title="갓 오브 블랙필드"]
