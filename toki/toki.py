@@ -22,6 +22,11 @@ def newtoki(number):
             key = txt.split(".")[0]
             manga[key] = f.read().splitlines()
 
+        with open(path/txt, "w", encoding="utf-8") as f:
+            key = txt.split(".")[0]
+            manga[key].sort()
+            f.writelines(line+"\n" for line in manga[key])
+
     with open(FILTERS/"newtoki.txt", "w", encoding="utf-8") as f:
         f.writelines(url+"##.comment-box\n")
         f.writelines(url+"###viewcomment\n")
