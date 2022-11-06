@@ -7,7 +7,7 @@ FILTERS = TOKI.parent / "filters"
 
 def main():
     with open(TOKI / "number.txt", "r", encoding="utf-8") as f:
-        number = f.read()
+        number = f.read().splitlines()[0]
         newtoki(number)
         manatoki(number)
 
