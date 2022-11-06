@@ -1,4 +1,2 @@
-manatoki161
-.net##.comment-box
-manatoki161
-.net###viewcomment
+manatoki161.net##.comment-box
+manatoki161.net###viewcomment
