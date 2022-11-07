@@ -2,6 +2,7 @@ newtoki161.com##.comment-box
 newtoki161.com###viewcomment
 newtoki161.com###webtoon-list-all > li[date-title="갓 오브 하이스쿨"]
 newtoki161.com###webtoon-list-all > li[date-title="나의 마녀"]
+newtoki161.com###webtoon-list-all > li[date-title="나혼자 어그로성 레벨업"]
 newtoki161.com###webtoon-list-all > li[date-title="노블레스"]
 newtoki161.com###webtoon-list-all > li[date-title="무련전봉"]
 newtoki161.com###webtoon-list-all > li[date-title="북검전기"]
