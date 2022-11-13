@@ -1,6 +1,5 @@
 newtoki162.com##.comment-box
 newtoki162.com###viewcomment
-newtoki162.com###webtoon-list-all > li[date-title=""]
 newtoki162.com###webtoon-list-all > li[date-title="Boy meets Girl(보이미츠걸)"]
 newtoki162.com###webtoon-list-all > li[date-title="LUST(러스트)"]
 newtoki162.com###webtoon-list-all > li[date-title="Wet Sand(웻샌드)"]
