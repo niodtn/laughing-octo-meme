@@ -30,6 +30,10 @@ def newtoki(number):
         with open(PATH/txt, "w", encoding="utf-8") as f:
             manga[file_name[0]] = list(set(manga[file_name[0]]))
             manga[file_name[0]].sort()
+
+            if "" in manga[file_name[0]]:
+                manga[file_name[0]].remove("")
+
             f.writelines(line+"\n" for line in manga[file_name[0]])
 
     with open(FILTERS/"newtoki.txt", "w", encoding="utf-8") as f:

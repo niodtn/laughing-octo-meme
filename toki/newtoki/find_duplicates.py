@@ -7,17 +7,21 @@ txt_list = os.listdir(PATH)
 manga = dict()
 for txt in txt_list:
     file_name = txt.split(".")
-    key = file_name[0]
-
+    # check extension
     if file_name[1] != "txt":
         continue
 
     with open(PATH/txt, "r", encoding="utf-8") as f:
-        manga[key] = f.read().splitlines()
+        manga[file_name[0]] = f.read().splitlines()
 
     with open(PATH/txt, "w", encoding="utf-8") as f:
-        manga[key].sort()
-        f.writelines(line+"\n" for line in manga[key])
+        manga[file_name[0]] = list(set(manga[file_name[0]]))
+        manga[file_name[0]].sort()
+
+        if "" in manga[file_name[0]]:
+            manga[file_name[0]].remove("")
+
+        f.writelines(line+"\n" for line in manga[file_name[0]])
 
 
 find = dict()
