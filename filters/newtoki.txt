@@ -1,5 +1,6 @@
 newtoki162.com##.comment-box
 newtoki162.com###viewcomment
+newtoki162.com###content_wrapper > div.content:last-child > div.at-content > div.view-wrap:nth-child(7) > section:nth-child(2) > article > div.view-title:first-child > div.view-content > div.row > div.col-sm-8:last-child > div.view-content:last-child > table.table > tbody:last-child > tr > th.active > button.btn.btn-white.btn-sm:nth-child(3)
 newtoki162.com###webtoon-list-all > li[date-title="3월의 보름을 조심하라"]
 newtoki162.com###webtoon-list-all > li[date-title="4주 애인"]
 newtoki162.com###webtoon-list-all > li[date-title="Aporia(아포리아)"]
@@ -247,6 +248,7 @@ newtoki162.com###webtoon-list-all > li[date-title="마검왕"]
 newtoki162.com###webtoon-list-all > li[date-title="마법스크롤상인 지오"]
 newtoki162.com###webtoon-list-all > li[date-title="만렙돌파"]
 newtoki162.com###webtoon-list-all > li[date-title="먹을수록 강해짐"]
+newtoki162.com###webtoon-list-all > li[date-title="모스크바의 여명"]
 newtoki162.com###webtoon-list-all > li[date-title="묵향 다크레이디"]
 newtoki162.com###webtoon-list-all > li[date-title="불패검선"]
 newtoki162.com###webtoon-list-all > li[date-title="블러디발렌타인:인류종말"]
@@ -263,6 +265,7 @@ newtoki162.com###webtoon-list-all > li[date-title="이차원 용병"]
 newtoki162.com###webtoon-list-all > li[date-title="잃고 나서야 깨달았다"]
 newtoki162.com###webtoon-list-all > li[date-title="입학용병"]
 newtoki162.com###webtoon-list-all > li[date-title="잔불의 기사"]
+newtoki162.com###webtoon-list-all > li[date-title="전설 헌터로 키워지는 중입니다"]
 newtoki162.com###webtoon-list-all > li[date-title="정령왕 엘퀴네스"]
 newtoki162.com###webtoon-list-all > li[date-title="책 먹는 마법사"]
 newtoki162.com###webtoon-list-all > li[date-title="책을 읽으면 경험이 쌓여"]
