@@ -95,6 +95,7 @@ newtoki164.com###webtoon-list-all > li[date-title="생존 마스터가 되었다
 newtoki164.com###webtoon-list-all > li[date-title="서큐버스가 되어버린 기사님"]
 newtoki164.com###webtoon-list-all > li[date-title="소꿉친구가 자꾸 괴롭혀!"]
 newtoki164.com###webtoon-list-all > li[date-title="수라전설 독룡"]
+newtoki164.com###webtoon-list-all > li[date-title="스텔라를 위하여"]
 newtoki164.com###webtoon-list-all > li[date-title="애늙은이"]
 newtoki164.com###webtoon-list-all > li[date-title="옥탑방 소드마스터"]
 newtoki164.com###webtoon-list-all > li[date-title="요신기"]
