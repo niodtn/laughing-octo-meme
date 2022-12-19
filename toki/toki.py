@@ -37,9 +37,12 @@ def newtoki(number):
             f.writelines(line+"\n" for line in manga[file_name[0]])
 
     with open(FILTERS/"newtoki.txt", "w", encoding="utf-8") as f:
-        f.writelines(url+"##.comment-box\n")
+        # 댓글
         f.writelines(url+"###viewcomment\n")
-        f.writelines(url+"###content_wrapper > div.content:last-child > div.at-content > div.view-wrap:nth-child(7) > section:nth-child(2) > article > div.view-title:first-child > div.view-content > div.row > div.col-sm-8:last-child > div.view-content:last-child > table.table > tbody:last-child > tr > th.active > button.btn.btn-white.btn-sm:nth-child(4)\n")
+        # 댓글 입력창
+        f.writelines(url+"##.comment-box\n")
+        # 별점
+        # f.writelines(url+"###content_wrapper > div.content:last-child > div.at-content > div.view-wrap:nth-child(7) > section:nth-child(2) > article > div.view-title:first-child > div.view-content > div.row > div.col-sm-8:last-child > div.view-content:last-child > table.table > tbody:last-child > tr > th.active > button.btn.btn-white.btn-sm:nth-child(4)\n")
 
         for key in manga.keys():
             for name in manga[key]:
