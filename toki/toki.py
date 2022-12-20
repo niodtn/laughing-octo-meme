@@ -24,18 +24,20 @@ def newtoki(number):
         if file_name[1] != "txt":
             continue
 
+        # read
         with open(PATH/txt, "r", encoding="utf-8") as f:
             manga[file_name[0]] = f.read().splitlines()
-
+        # 중복 제거 및 정렬 후 저장
         with open(PATH/txt, "w", encoding="utf-8") as f:
             manga[file_name[0]] = list(set(manga[file_name[0]]))
             manga[file_name[0]].sort()
-
+            # remove white space
             if "" in manga[file_name[0]]:
                 manga[file_name[0]].remove("")
 
             f.writelines(line+"\n" for line in manga[file_name[0]])
 
+    # 저장 파트
     with open(FILTERS/"newtoki.txt", "w", encoding="utf-8") as f:
         # 댓글
         f.writelines(url+"###viewcomment\n")
