@@ -33,4 +33,4 @@ for key in manga.keys():
 
 for key in find.keys():
     if len(find[key]) > 1:
-        print(find[key])
+        print(f"{key}: {find[key]}")
