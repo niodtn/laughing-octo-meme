@@ -47,9 +47,16 @@ def newtoki(number):
         # f.writelines(url+"###content_wrapper > div.content:last-child > div.at-content > div.view-wrap:nth-child(7) > section:nth-child(2) > article > div.view-title:first-child > div.view-content > div.row > div.col-sm-8:last-child > div.view-content:last-child > table.table > tbody:last-child > tr > th.active > button.btn.btn-white.btn-sm:nth-child(4)\n")
 
         for key in manga.keys():
-            for name in manga[key]:
+            if key == "북마크":
+                continue
+            for title in manga[key]:
                 f.writelines(
-                    url+f'###webtoon-list-all > li[date-title="{name}"]\n')
+                    url+f'###webtoon-list-all > li[date-title="{title}"]\n')
+
+    with open(FILTERS/"bookmark.txt", "w", encoding="utf-8") as f:
+        for title in manga["북마크"]:
+            f.writelines(
+                url+f'###webtoon-list-all > li[date-title="{title}"]\n')
 
 
 def manatoki(number):
