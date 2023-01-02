@@ -386,6 +386,7 @@ newtoki168.com###webtoon-list-all > li[date-title="폐급인 척했던 학교생
 newtoki168.com###webtoon-list-all > li[date-title="프리드로우"]
 newtoki168.com###webtoon-list-all > li[date-title="한따까리"]
 newtoki168.com###webtoon-list-all > li[date-title="해골병사는 던전을 지키지 못했다"]
+newtoki168.com###webtoon-list-all > li[date-title="헬크래프트"]
 newtoki168.com###webtoon-list-all > li[date-title="현실퀘스트"]
 newtoki168.com###webtoon-list-all > li[date-title="호랑이 형님"]
 newtoki168.com###webtoon-list-all > li[date-title="환골탈태"]
