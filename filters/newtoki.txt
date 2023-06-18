@@ -333,6 +333,7 @@ newtoki293.com###webtoon-list-all > li[date-title="그 악녀를 조심하세요
 newtoki293.com###webtoon-list-all > li[date-title="그녀가 공작저로 가야 했던 사정"]
 newtoki293.com###webtoon-list-all > li[date-title="나 혼자만 레벨업"]
 newtoki293.com###webtoon-list-all > li[date-title="나노리스트"]
+newtoki293.com###webtoon-list-all > li[date-title="악녀가 사랑할 때"]
 newtoki293.com###webtoon-list-all > li[date-title="악녀의 남주님"]
 newtoki293.com###webtoon-list-all > li[date-title="오 주예수여"]
 newtoki293.com###webtoon-list-all > li[date-title="윈드브레이커"]
