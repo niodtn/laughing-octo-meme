@@ -64,6 +64,7 @@ newtoki313.com###webtoon-list-all > li[date-title="튜토리얼이 너무 어렵
 newtoki313.com###webtoon-list-all > li[date-title="허약선생"]
 newtoki313.com###webtoon-list-all > li[date-title="화산전생"]
 newtoki313.com###webtoon-list-all > li[date-title="회귀한 천재 헌터의 슬기로운 청소생활"]
+newtoki313.com###webtoon-list-all > li[date-title="만능잡캐"]
 newtoki313.com###webtoon-list-all > li[date-title="100만 년 만에 귀환하다"]
 newtoki313.com###webtoon-list-all > li[date-title="10만 년째 오늘을 살던 놈"]
 newtoki313.com###webtoon-list-all > li[date-title="8만 년 만에 회귀하다"]
