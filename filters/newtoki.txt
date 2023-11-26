@@ -717,6 +717,7 @@ newtoki316.com###webtoon-list-all > li[date-title="내 소설의 악역이 되�
 newtoki316.com###webtoon-list-all > li[date-title="내 여자친구는 좀비"]
 newtoki316.com###webtoon-list-all > li[date-title="뉴비 1일차로 무한 회귀"]
 newtoki316.com###webtoon-list-all > li[date-title="능천신제"]
+newtoki316.com###webtoon-list-all > li[date-title="달콤한 종속 : 뱀파이어와 키스를"]
 newtoki316.com###webtoon-list-all > li[date-title="대귀갑사"]
 newtoki316.com###webtoon-list-all > li[date-title="도군"]
 newtoki316.com###webtoon-list-all > li[date-title="도시의 전설"]
