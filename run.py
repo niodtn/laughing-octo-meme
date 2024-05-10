@@ -1,5 +1,4 @@
 import os
-import lib
 from lib import toki
 from lib import path
 
