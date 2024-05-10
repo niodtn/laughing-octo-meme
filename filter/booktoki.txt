@@ -1,4 +1,6 @@
 booktoki337.com##.sticky-wrapper > header > div > *
+booktoki337.com###webtoon-list-all > li[date-title="신화급 귀속 아이템을 손에 넣었다"]
+booktoki337.com###webtoon-list-all > li[date-title="회귀한 엑스트라가 천재가 됨"]
 booktoki337.com###webtoon-list-all > li[date-title="2레벨로 회귀한 무신"]
 booktoki337.com###webtoon-list-all > li[date-title="SSS급 죽어야 사는 헌터"]
 booktoki337.com###webtoon-list-all > li[date-title="네크로맨서 학교의 소환천재"]
@@ -329,5 +331,3 @@ booktoki337.com###webtoon-list-all > li[date-title="흑백무제"]
 booktoki337.com###webtoon-list-all > li[date-title="흡혈왕"]
 booktoki337.com###webtoon-list-all > li[date-title="히든 특성 13개 들고 시작한다"]
 booktoki337.com###webtoon-list-all > li[date-title="히틀러가 되었다"]
-booktoki337.com###webtoon-list-all > li[date-title="신화급 귀속 아이템을 손에 넣었다"]
-booktoki337.com###webtoon-list-all > li[date-title="회귀한 엑스트라가 천재가 됨"]
