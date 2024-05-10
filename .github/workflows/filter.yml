@@ -13,7 +13,7 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Start
+      - name: Run Python
         run: |
           python run.py
 

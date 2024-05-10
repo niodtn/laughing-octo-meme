@@ -26,8 +26,12 @@ jobs:
 
       - name: Inputs Processing
         run: |
-          echo "${{github.event.inputs.nnum}}" >> data/toki/number.txt
-          echo "${{github.event.inputs.ntitle}}" > data/toki/newtoki/${{github.event.inputs.ntype}}.txt
+          echo "${{github.event.inputs.nnum}}" > data/toki/number.txt
+          echo "${{github.event.inputs.ntitle}}" >> data/toki/newtoki/${{github.event.inputs.ntype}}.txt
+
+      - name: Run Python
+        run: |
+          python run.py
 
       - name: commit
         run: |
