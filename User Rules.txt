@@ -982,6 +982,7 @@ newtoki337.com###webtoon-list-all > li[date-title="세자와 세자빈의 계약
 newtoki337.com###webtoon-list-all > li[date-title="소공녀 민트"]
 newtoki337.com###webtoon-list-all > li[date-title="소꿉친구가 집착 남편이 되었다"]
 newtoki337.com###webtoon-list-all > li[date-title="소녀의 세계"]
+newtoki337.com###webtoon-list-all > li[date-title="소녀재판"]
 newtoki337.com###webtoon-list-all > li[date-title="소원이 내리는 밤"]
 newtoki337.com###webtoon-list-all > li[date-title="솔다토 SOLDATO [19세 완전판]"]
 newtoki337.com###webtoon-list-all > li[date-title="수상한 소공자는 천하십대고수"]
