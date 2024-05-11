@@ -177,6 +177,7 @@ newtoki337.com###webtoon-list-all > li[date-title="회귀했더니 최강 네크
 newtoki337.com###webtoon-list-all > li[date-title="흑화를 막는건 연애뿐"]
 newtoki337.com###webtoon-list-all > li[date-title="흙수저, 시스템에게 선택받다"]
 newtoki337.com###webtoon-list-all > li[date-title="흙수저에서 최강 투신으로"]
+newtoki337.com###webtoon-list-all > li[date-title="0살부터 슈퍼스타"]
 newtoki337.com###webtoon-list-all > li[date-title="100년 묵은 탑셰프"]
 newtoki337.com###webtoon-list-all > li[date-title="100마일"]
 newtoki337.com###webtoon-list-all > li[date-title="108명의 그녀들"]
