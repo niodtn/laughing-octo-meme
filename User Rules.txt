@@ -653,6 +653,7 @@ newtoki337.com###webtoon-list-all > li[date-title="나를 버린 가족에게 �
 newtoki337.com###webtoon-list-all > li[date-title="나를 사랑하지 않는 그대에게"]
 newtoki337.com###webtoon-list-all > li[date-title="나를 잡아먹지 말아줘"]
 newtoki337.com###webtoon-list-all > li[date-title="나쁜사람"]
+newtoki337.com###webtoon-list-all > li[date-title="나에게 반한 남자"]
 newtoki337.com###webtoon-list-all > li[date-title="나와 호랑이님"]
 newtoki337.com###webtoon-list-all > li[date-title="나의 그대는 악마"]
 newtoki337.com###webtoon-list-all > li[date-title="나의 데드 엔딩 후에"]
