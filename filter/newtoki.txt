@@ -1056,6 +1056,7 @@ newtoki337.com###webtoon-list-all > li[date-title="피폐물 남주에게 꽃길
 newtoki337.com###webtoon-list-all > li[date-title="하녀, 여왕이 되다"]
 newtoki337.com###webtoon-list-all > li[date-title="하녀는 폭군의 목줄을 쥐고 있다"]
 newtoki337.com###webtoon-list-all > li[date-title="하드코어 고등학교"]
+newtoki337.com###webtoon-list-all > li[date-title="하라는 공부는 안하고"]
 newtoki337.com###webtoon-list-all > li[date-title="하룻밤은 드래곤곁에서"]
 newtoki337.com###webtoon-list-all > li[date-title="하북팽가 막내아들"]
 newtoki337.com###webtoon-list-all > li[date-title="하수도"]
