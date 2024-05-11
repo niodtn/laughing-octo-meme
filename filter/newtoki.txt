@@ -968,6 +968,7 @@ newtoki337.com###webtoon-list-all > li[date-title="천마는 평범하게 살 �
 newtoki337.com###webtoon-list-all > li[date-title="천마육성"]
 newtoki337.com###webtoon-list-all > li[date-title="천마의 후손이 되었다"]
 newtoki337.com###webtoon-list-all > li[date-title="천애협로"]
+newtoki337.com###webtoon-list-all > li[date-title="천재 무림 트레이너"]
 newtoki337.com###webtoon-list-all > li[date-title="천재 배우의 아우라Aura"]
 newtoki337.com###webtoon-list-all > li[date-title="천재 의사 이무진"]
 newtoki337.com###webtoon-list-all > li[date-title="천재 타자가 강속구를 숨김"]
