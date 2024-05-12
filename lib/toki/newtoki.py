@@ -17,6 +17,10 @@ def newtoki(number: int) -> None:
     _newtoki = open(FILTER / "newtoki.txt", "a", encoding="utf-8")
 
     for txt in TXT_LIST:
+        # 확장자가 txt가 아니면 스킵
+        if txt.split(".")[-1] != "txt":
+            continue
+
         with open(PATH / txt, "r", encoding="utf-8") as f_r:
             data = f_r.read()
             data = lib.sort(data)
