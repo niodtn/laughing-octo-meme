@@ -5,6 +5,6 @@ DATA = BASE / "data"
 FILTER = BASE / "filter"
 
 # toki
-BOOKTOKI = BASE / "data" / "toki" / "booktoki"
-MANATOKI = BASE / "data" / "toki" / "manatoki"
-NEWTOKI = BASE / "data" / "toki" / "newtoki"
+BOOKTOKI = DATA / "toki" / "booktoki"
+MANATOKI = DATA / "toki" / "manatoki"
+NEWTOKI = DATA / "toki" / "newtoki"
