@@ -1,2 +1,0 @@
-manatoki337.net##.sticky-wrapper > header > div > *
-manatoki337.net###webtoon-list-all > li[date-title="마녀의 하인과 마왕의 뿔"]

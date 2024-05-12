@@ -8,5 +8,5 @@ def run():
     with open(path.DATA / "toki" / "number.txt", "r", encoding="utf-8") as f:
         number = int(f.read())
         booktoki(number)
-        manatoki(number)
+        # manatoki(number)
         newtoki(number)
