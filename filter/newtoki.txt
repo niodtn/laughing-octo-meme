@@ -666,6 +666,7 @@ newtoki337.com###webtoon-list-all > li[date-title="무림세가 천대받는 손
 newtoki337.com###webtoon-list-all > li[date-title="무사만리행"]
 newtoki337.com###webtoon-list-all > li[date-title="무신전기"]
 newtoki337.com###webtoon-list-all > li[date-title="무협지 악녀인데 내가 제일 쎄"]
+newtoki337.com###webtoon-list-all > li[date-title="백씨세가 시한부 공자"]
 newtoki337.com###webtoon-list-all > li[date-title="북검전기"]
 newtoki337.com###webtoon-list-all > li[date-title="불사무적"]
 newtoki337.com###webtoon-list-all > li[date-title="사신표월"]
