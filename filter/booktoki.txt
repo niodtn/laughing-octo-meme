@@ -1,5 +1,6 @@
 booktoki337.com##.sticky-wrapper > header > div > *
 booktoki337.com###webtoon-list-all > li[date-title="신화급 귀속 아이템을 손에 넣었다"]
+booktoki337.com###webtoon-list-all > li[date-title="아카데미 편의점으로 힐링 할게요"]
 booktoki337.com###webtoon-list-all > li[date-title="회귀한 엑스트라가 천재가 됨"]
 booktoki337.com###webtoon-list-all > li[date-title="2레벨로 회귀한 무신"]
 booktoki337.com###webtoon-list-all > li[date-title="SSS급 죽어야 사는 헌터"]
