@@ -1003,6 +1003,7 @@ newtoki337.com###webtoon-list-all > li[date-title="무협지 악녀인데 내가
 newtoki337.com###webtoon-list-all > li[date-title="북검전기"]
 newtoki337.com###webtoon-list-all > li[date-title="불사무적"]
 newtoki337.com###webtoon-list-all > li[date-title="사신표월"]
+newtoki337.com###webtoon-list-all > li[date-title="삼국지 여포의 인생 시뮬레이터"]
 newtoki337.com###webtoon-list-all > li[date-title="삼국지 여포전"]
 newtoki337.com###webtoon-list-all > li[date-title="선녀외전"]
 newtoki337.com###webtoon-list-all > li[date-title="성검전설"]
