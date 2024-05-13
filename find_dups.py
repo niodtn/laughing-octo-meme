@@ -10,7 +10,8 @@ for file in FILE_LIST:
         title_list = lib.sort(f.read())
 
     for title in title_list:
-        dups[title] = list()
+        if not title in dups:
+            dups[title] = list()
         dups[title].append(file)
 
 for key in dups.keys():
