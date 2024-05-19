@@ -377,6 +377,7 @@ newtoki338.com###webtoon-list-all > li[date-title="서울 자가에 대기업 �
 newtoki338.com###webtoon-list-all > li[date-title="선녀외전"]
 newtoki338.com###webtoon-list-all > li[date-title="성검전설"]
 newtoki338.com###webtoon-list-all > li[date-title="소녀재판"]
+newtoki338.com###webtoon-list-all > li[date-title="수희0 tngmlek0"]
 newtoki338.com###webtoon-list-all > li[date-title="스쿨 오브 스트릿"]
 newtoki338.com###webtoon-list-all > li[date-title="신마"]
 newtoki338.com###webtoon-list-all > li[date-title="신마경천기"]
