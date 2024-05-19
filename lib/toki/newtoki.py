@@ -1,6 +1,7 @@
 import lib
 from lib import path
 import os
+from lib.txt import txt
 
 
 def newtoki(number: int) -> None:
@@ -16,18 +17,13 @@ def newtoki(number: int) -> None:
 
     _newtoki = open(FILTER / "newtoki.txt", "a", encoding="utf-8")
 
-    for txt in TXT_LIST:
+    for txt_name in TXT_LIST:
         # 확장자가 txt가 아니면 스킵
-        if txt.split(".")[-1] != "txt":
+        if txt_name.split(".")[-1] != "txt":
             continue
 
-        with open(PATH / txt, "r", encoding="utf-8") as f_r:
-            data = f_r.read()
-            data = lib.sort(data)
-
-        with open(PATH / txt, "w", encoding="utf-8") as f_w:  # 정렬 후 저장
-            _data = lib.list_str(data)
-            f_w.write(_data)
+        _txt = txt(PATH / txt_name)
+        data = _txt.list.copy()
 
         for i in range(len(data)):
             selecter = f'###webtoon-list-all > li[date-title="{data[i]}"]\n'
