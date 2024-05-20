@@ -14,10 +14,10 @@ class txt:
             self.write(self.path, self.list)
 
     def sort(self, _list: list) -> list:
-        ret = list(set(_list)) # Remove Duplicates
+        ret = list(set(_list))  # Remove Duplicates
         ret.sort()
-        if "" in ret: # Remove Whitespace
-                ret.remove("")
+        if "" in ret:  # Remove Whitespace
+            ret.remove("")
         return ret
 
     def read(self, path: Path):

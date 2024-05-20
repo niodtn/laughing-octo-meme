@@ -10,7 +10,7 @@ dups = dict()
 # txt를 전부 읽어서 아래처럼 만듬
 # {"웹툰 제목": ["1.txt", "2.txt"], ...}
 for file in FILE_LIST:
-    _txt = txt(path.NEWTOKI/file)
+    _txt = txt(path.NEWTOKI / file)
 
     for title in _txt.list:
         if not title in dups:
@@ -26,9 +26,8 @@ for key in dups.keys():
         user_input = input("Ban? (y/N): ")
         if user_input.lower() in ["yes", "y"]:
             for i in dups[key]:
-                _txt = txt(path.NEWTOKI/i)
+                _txt = txt(path.NEWTOKI / i)
                 _txt.list.remove(key)
 
-            _txt = txt(path.NEWTOKI/"Ban.txt")
-            _txt.list.append(key+"\n")
-
+            _txt = txt(path.NEWTOKI / "Ban.txt")
+            _txt.list.append(key + "\n")
