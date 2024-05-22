@@ -358,6 +358,7 @@ newtoki338.com###webtoon-list-all > li[date-title="내 오른 눈은 신급 컴�
 newtoki338.com###webtoon-list-all > li[date-title="내남친 킹카만들기"]
 newtoki338.com###webtoon-list-all > li[date-title="눈먼 양의 집"]
 newtoki338.com###webtoon-list-all > li[date-title="다만, 구하소서"]
+newtoki338.com###webtoon-list-all > li[date-title="다시 한번 아이돌"]
 newtoki338.com###webtoon-list-all > li[date-title="닥터 최태수"]
 newtoki338.com###webtoon-list-all > li[date-title="뒤끝작렬"]
 newtoki338.com###webtoon-list-all > li[date-title="레벨업하기 싫은 천마님"]
