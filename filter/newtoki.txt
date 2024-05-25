@@ -88,6 +88,7 @@ newtoki338.com###webtoon-list-all > li[date-title="악역이지만 남주는 꼬
 newtoki338.com###webtoon-list-all > li[date-title="암살청과"]
 newtoki338.com###webtoon-list-all > li[date-title="앵무살수"]
 newtoki338.com###webtoon-list-all > li[date-title="어게인 마이 라이프"]
+newtoki338.com###webtoon-list-all > li[date-title="어글리후드"]
 newtoki338.com###webtoon-list-all > li[date-title="여고생이 신인데 나만 괴롭힘"]
 newtoki338.com###webtoon-list-all > li[date-title="열 명의 신제들이 모두 내 제자"]
 newtoki338.com###webtoon-list-all > li[date-title="염라강림"]
