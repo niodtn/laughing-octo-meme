@@ -335,6 +335,7 @@ booktoki338.com###webtoon-list-all > li[date-title="회귀한 엑스트라가 �
 newtoki338.com##.sticky-wrapper > header > div > *
 newtoki338.com###webtoon-list-all > li[date-title="0살부터 슈퍼스타"]
 newtoki338.com###webtoon-list-all > li[date-title="1등급 싸움과외"]
+newtoki338.com###webtoon-list-all > li[date-title="205호 고은혜"]
 newtoki338.com###webtoon-list-all > li[date-title="21세기 반로환동전"]
 newtoki338.com###webtoon-list-all > li[date-title="A.I. 닥터"]
 newtoki338.com###webtoon-list-all > li[date-title="K학원 생존기"]
