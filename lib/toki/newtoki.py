@@ -1,6 +1,6 @@
-import lib
-from lib import path
 import os
+
+from lib import path
 from lib.txt import txt
 
 
