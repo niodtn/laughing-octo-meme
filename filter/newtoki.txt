@@ -75,6 +75,7 @@ newtoki339.com###webtoon-list-all > li[date-title="서울 자가에 대기업 �
 newtoki339.com###webtoon-list-all > li[date-title="서툰 군인"]
 newtoki339.com###webtoon-list-all > li[date-title="선녀외전"]
 newtoki339.com###webtoon-list-all > li[date-title="성검전설"]
+newtoki339.com###webtoon-list-all > li[date-title="소녀의 세계"]
 newtoki339.com###webtoon-list-all > li[date-title="소녀재판"]
 newtoki339.com###webtoon-list-all > li[date-title="수호소녀"]
 newtoki339.com###webtoon-list-all > li[date-title="수희0 tngmlek0"]
