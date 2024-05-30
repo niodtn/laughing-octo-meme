@@ -101,6 +101,7 @@ newtoki339.com###webtoon-list-all > li[date-title="요리사가 되고 싶은 �
 newtoki339.com###webtoon-list-all > li[date-title="용사가 세계의 주적이라는데요"]
 newtoki339.com###webtoon-list-all > li[date-title="월령검제"]
 newtoki339.com###webtoon-list-all > li[date-title="위닝샷!"]
+newtoki339.com###webtoon-list-all > li[date-title="유물읽는 감정사"]
 newtoki339.com###webtoon-list-all > li[date-title="의원님이 보우하사"]
 newtoki339.com###webtoon-list-all > li[date-title="이것이 법이다"]
 newtoki339.com###webtoon-list-all > li[date-title="이발소 밑 게임가게"]
