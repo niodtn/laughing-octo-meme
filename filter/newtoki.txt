@@ -827,6 +827,7 @@ newtoki342.com###webtoon-list-all > li[date-title="막내는 아이돌이 되어
 newtoki342.com###webtoon-list-all > li[date-title="망돌의 사생"]
 newtoki342.com###webtoon-list-all > li[date-title="머실리스"]
 newtoki342.com###webtoon-list-all > li[date-title="메디컬 환생"]
+newtoki342.com###webtoon-list-all > li[date-title="무능력자 네이버"]
 newtoki342.com###webtoon-list-all > li[date-title="무림세가 천대받는 손녀 딸이 되었다"]
 newtoki342.com###webtoon-list-all > li[date-title="무사만리행"]
 newtoki342.com###webtoon-list-all > li[date-title="무신전기"]
