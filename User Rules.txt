@@ -245,6 +245,7 @@ newtoki343.com###webtoon-list-all > li[date-title="랭킹 1위를 영혼까지 �
 newtoki343.com###webtoon-list-all > li[date-title="레벨업 못하는 플레이어"]
 newtoki343.com###webtoon-list-all > li[date-title="레벨업하기 싫은 영급무사"]
 newtoki343.com###webtoon-list-all > li[date-title="로그인 무림"]
+newtoki343.com###webtoon-list-all > li[date-title="로열 셰프 영애님"]
 newtoki343.com###webtoon-list-all > li[date-title="리더(Reader)-읽는자"]
 newtoki343.com###webtoon-list-all > li[date-title="리라이프 플레이어"]
 newtoki343.com###webtoon-list-all > li[date-title="리버스 빌런3"]
