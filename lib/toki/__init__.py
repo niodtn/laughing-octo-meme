@@ -1,6 +1,4 @@
 from lib import path
-from lib.toki.booktoki import booktoki
-from lib.toki.newtoki import newtoki
 from lib.toki.toki import toki
 
 
@@ -9,3 +7,4 @@ def run():
         number = int(f.read())
         toki("new", number)
         toki("book", number)
+        toki("mana", number)
