@@ -7,4 +7,3 @@ def run():
         number = int(f.read())
         toki("new", number)
         toki("book", number)
-        toki("mana", number)
