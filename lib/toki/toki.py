@@ -13,12 +13,12 @@ def toki(toki: str, number: int) -> None:
 
     TXT_LIST = os.listdir(PATH)
 
-    with open(FILTER / "newtoki.txt", "w", encoding="utf-8") as f:  # INITIALIZE
+    with open(FILTER / "{toki}toki.txt", "w", encoding="utf-8") as f:  # INITIALIZE
         # f.writelines(URL+"###viewcomment\n")  # 댓글
         # f.writelines(URL+"##.comment-box\n")  # 댓글 입력창
         f.writelines(URL + "##.sticky-wrapper > header > div > *\n")  # 로고
 
-    _newtoki = open(FILTER / "newtoki.txt", "a", encoding="utf-8")
+    _toki = open(FILTER / "{toki}toki.txt", "a", encoding="utf-8")
 
     for txt_name in TXT_LIST:
         # 확장자가 txt가 아니면 스킵
@@ -33,9 +33,9 @@ def toki(toki: str, number: int) -> None:
             data[i] = URL + selecter
 
         for i in data:
-            _newtoki.writelines(i)
+            _toki.writelines(i)
 
-    _newtoki.close()
+    _toki.close()
 
 
 # class toki:
