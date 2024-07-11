@@ -5,9 +5,12 @@ from lib.txt import txt
 
 
 def toki(toki: str, number: int) -> None:
-    PATH = path.NEWTOKI
+    PATH = path.DATA / "toki" / f"{toki}toki"
     FILTER = path.FILTER
-    URL = f"newtoki{number}.com"
+
+    URL = f"{toki}toki{number}."
+    URL += "net" if toki == "mana" else "com"
+
     TXT_LIST = os.listdir(PATH)
 
     with open(FILTER / "newtoki.txt", "w", encoding="utf-8") as f:  # INITIALIZE
